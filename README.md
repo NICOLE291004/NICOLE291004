@@ -3,7 +3,7 @@
 Desarrollo software **full stack** para web y móvil, de la base de datos a la interfaz. En mi residencia profesional en **CFE Hermosillo** construí de punta a punta un sistema para monitorear cerca de 500 terminales móviles y una app de capacitación para el personal, y como freelance he publicado varios proyectos que hoy están en producción.
 
 - **Formación:** Ingeniería en Sistemas Computacionales · Instituto Tecnológico de Hermosillo (TecNM)
-- **Idiomas:** Español nativo · Inglés técnico (lectura y escritura)
+- **Idiomas:** Español nativo · Inglés: lectura y escritura técnica, conversación básica
 - **Ubicación:** Hermosillo, Sonora · Disponible para posiciones de desarrollo de software, presencial o remoto
 - **LinkedIn:** [linkedin.com/in/nicole-gracia-mendoza](https://www.linkedin.com/in/nicole-gracia-mendoza/)
 
